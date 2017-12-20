@@ -18,8 +18,8 @@ public class OrderModel {
 	public static final Integer ORDER_TYPE_OF_BUY_END = 199;
 	
 	public static final String ORDER_TYPE_OF_BUY_NO_CHECK_VIEW = "未审核";
-	public static final String ORDER_TYPE_OF_BUY_CHECK_NO_PASS_VIEW = "驳回";
-	public static final String ORDER_TYPE_OF_BUY_CHECK_PASS_VIEW = "任务指派中";
+	public static final String ORDER_TYPE_OF_BUY_CHECK_NO_VIEW = "驳回";
+	public static final String ORDER_TYPE_OF_BUY_CHECK_OK_VIEW = "任务指派中";
 	public static final String ORDER_TYPE_OF_BUY_BUYING_VIEW = "采购中";
 	public static final String ORDER_TYPE_OF_BUY_IN_STORE_VIEW = "入库中";
 	public static final String ORDER_TYPE_OF_BUY_END_VIEW = "已结单";
